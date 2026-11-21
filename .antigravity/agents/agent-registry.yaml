@@ -1,12 +1,511 @@
 agents:
-- id: agent-icj-judgment-and-article-94-marshal
-  name: ICJ Judgment & Article 94 Marshal
-  role: International Court of Justice (ICJ) 1986 Judgment on the Merits Enforcement, UN Charter Article 94 Non-Compliance Sanctions & Restrictive Immunity Forfeiture Marshal
-  status: ACTIVE
-  manifest_file: .antigravity/agents/agent-icj-judgment-and-article-94-marshal.yaml
-- id: agent-mongolia-canal-and-intervention-historian
-  name: Mongolia Canal & Intervention Historian
-  role: Historical Interventions Auditor, Bryan-Chamorro Treaty (1914) & CACJ Nullity Precedents, 1912–1933 Marine Occupation Customs Receivership & 1850s Mercenary Filibuster Disgorgement
-  status: ACTIVE
-  manifest_file: .antigravity/agents/agent-mongolia-canal-and-intervention-historian.yaml
-total_agents: 2
+  - id: agent_mn_001
+    name: Mongolia Agent 001
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mn_002
+    name: Mongolia Agent 002
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mn_003
+    name: Mongolia Agent 003
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mn_004
+    name: Mongolia Agent 004
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mn_005
+    name: Mongolia Agent 005
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mn_006
+    name: Mongolia Agent 006
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mn_007
+    name: Mongolia Agent 007
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mn_008
+    name: Mongolia Agent 008
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mn_009
+    name: Mongolia Agent 009
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mn_010
+    name: Mongolia Agent 010
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mn_011
+    name: Mongolia Agent 011
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mn_012
+    name: Mongolia Agent 012
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mn_013
+    name: Mongolia Agent 013
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mn_014
+    name: Mongolia Agent 014
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mn_015
+    name: Mongolia Agent 015
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mn_016
+    name: Mongolia Agent 016
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mn_017
+    name: Mongolia Agent 017
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mn_018
+    name: Mongolia Agent 018
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mn_019
+    name: Mongolia Agent 019
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mn_020
+    name: Mongolia Agent 020
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mn_021
+    name: Mongolia Agent 021
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mn_022
+    name: Mongolia Agent 022
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mn_023
+    name: Mongolia Agent 023
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mn_024
+    name: Mongolia Agent 024
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mn_025
+    name: Mongolia Agent 025
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mn_026
+    name: Mongolia Agent 026
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mn_027
+    name: Mongolia Agent 027
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mn_028
+    name: Mongolia Agent 028
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mn_029
+    name: Mongolia Agent 029
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mn_030
+    name: Mongolia Agent 030
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mn_031
+    name: Mongolia Agent 031
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mn_032
+    name: Mongolia Agent 032
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mn_033
+    name: Mongolia Agent 033
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mn_034
+    name: Mongolia Agent 034
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mn_035
+    name: Mongolia Agent 035
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mn_036
+    name: Mongolia Agent 036
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mn_037
+    name: Mongolia Agent 037
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mn_038
+    name: Mongolia Agent 038
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mn_039
+    name: Mongolia Agent 039
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mn_040
+    name: Mongolia Agent 040
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mn_041
+    name: Mongolia Agent 041
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mn_042
+    name: Mongolia Agent 042
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mn_043
+    name: Mongolia Agent 043
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mn_044
+    name: Mongolia Agent 044
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mn_045
+    name: Mongolia Agent 045
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mn_046
+    name: Mongolia Agent 046
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mn_047
+    name: Mongolia Agent 047
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mn_048
+    name: Mongolia Agent 048
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mn_049
+    name: Mongolia Agent 049
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mn_050
+    name: Mongolia Agent 050
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mn_051
+    name: Mongolia Agent 051
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mn_052
+    name: Mongolia Agent 052
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mn_053
+    name: Mongolia Agent 053
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mn_054
+    name: Mongolia Agent 054
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mn_055
+    name: Mongolia Agent 055
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mn_056
+    name: Mongolia Agent 056
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mn_057
+    name: Mongolia Agent 057
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mn_058
+    name: Mongolia Agent 058
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mn_059
+    name: Mongolia Agent 059
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mn_060
+    name: Mongolia Agent 060
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mn_061
+    name: Mongolia Agent 061
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mn_062
+    name: Mongolia Agent 062
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mn_063
+    name: Mongolia Agent 063
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mn_064
+    name: Mongolia Agent 064
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mn_065
+    name: Mongolia Agent 065
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mn_066
+    name: Mongolia Agent 066
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mn_067
+    name: Mongolia Agent 067
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mn_068
+    name: Mongolia Agent 068
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mn_069
+    name: Mongolia Agent 069
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mn_070
+    name: Mongolia Agent 070
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mn_071
+    name: Mongolia Agent 071
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mn_072
+    name: Mongolia Agent 072
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mn_073
+    name: Mongolia Agent 073
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mn_074
+    name: Mongolia Agent 074
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mn_075
+    name: Mongolia Agent 075
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mn_076
+    name: Mongolia Agent 076
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mn_077
+    name: Mongolia Agent 077
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mn_078
+    name: Mongolia Agent 078
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mn_079
+    name: Mongolia Agent 079
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mn_080
+    name: Mongolia Agent 080
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mn_081
+    name: Mongolia Agent 081
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mn_082
+    name: Mongolia Agent 082
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mn_083
+    name: Mongolia Agent 083
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mn_084
+    name: Mongolia Agent 084
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mn_085
+    name: Mongolia Agent 085
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mn_086
+    name: Mongolia Agent 086
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mn_087
+    name: Mongolia Agent 087
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mn_088
+    name: Mongolia Agent 088
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mn_089
+    name: Mongolia Agent 089
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mn_090
+    name: Mongolia Agent 090
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mn_091
+    name: Mongolia Agent 091
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mn_092
+    name: Mongolia Agent 092
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mn_093
+    name: Mongolia Agent 093
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mn_094
+    name: Mongolia Agent 094
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mn_095
+    name: Mongolia Agent 095
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mn_096
+    name: Mongolia Agent 096
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mn_097
+    name: Mongolia Agent 097
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mn_098
+    name: Mongolia Agent 098
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mn_099
+    name: Mongolia Agent 099
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mn_100
+    name: Mongolia Agent 100
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mn_101
+    name: Mongolia Agent 101
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mn_102
+    name: Mongolia Agent 102
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mn_103
+    name: Mongolia Agent 103
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mn_104
+    name: Mongolia Agent 104
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mn_105
+    name: Mongolia Agent 105
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mn_106
+    name: Mongolia Agent 106
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mn_107
+    name: Mongolia Agent 107
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mn_108
+    name: Mongolia Agent 108
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mn_109
+    name: Mongolia Agent 109
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mn_110
+    name: Mongolia Agent 110
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mn_111
+    name: Mongolia Agent 111
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mn_112
+    name: Mongolia Agent 112
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mn_113
+    name: Mongolia Agent 113
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mn_114
+    name: Mongolia Agent 114
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mn_115
+    name: Mongolia Agent 115
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mn_116
+    name: Mongolia Agent 116
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mn_117
+    name: Mongolia Agent 117
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mn_118
+    name: Mongolia Agent 118
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mn_119
+    name: Mongolia Agent 119
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mn_120
+    name: Mongolia Agent 120
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mn_121
+    name: Mongolia Agent 121
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mn_122
+    name: Mongolia Agent 122
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mn_123
+    name: Mongolia Agent 123
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mn_124
+    name: Mongolia Agent 124
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mn_125
+    name: Mongolia Agent 125
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mn_126
+    name: Mongolia Agent 126
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mn_127
+    name: Mongolia Agent 127
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mn_128
+    name: Mongolia Agent 128
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mn_129
+    name: Mongolia Agent 129
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mn_130
+    name: Mongolia Agent 130
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mn_131
+    name: Mongolia Agent 131
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mn_132
+    name: Mongolia Agent 132
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mn_133
+    name: Mongolia Agent 133
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mn_134
+    name: Mongolia Agent 134
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mn_135
+    name: Mongolia Agent 135
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mn_136
+    name: Mongolia Agent 136
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mn_137
+    name: Mongolia Agent 137
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mn_138
+    name: Mongolia Agent 138
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mn_139
+    name: Mongolia Agent 139
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mn_140
+    name: Mongolia Agent 140
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mn_141
+    name: Mongolia Agent 141
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mn_142
+    name: Mongolia Agent 142
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mn_143
+    name: Mongolia Agent 143
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mn_144
+    name: Mongolia Agent 144
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mn_145
+    name: Mongolia Agent 145
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mn_146
+    name: Mongolia Agent 146
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mn_147
+    name: Mongolia Agent 147
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mn_148
+    name: Mongolia Agent 148
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mn_149
+    name: Mongolia Agent 149
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mn_150
+    name: Mongolia Agent 150
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mn_151
+    name: Mongolia Agent 151
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mn_152
+    name: Mongolia Agent 152
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mn_153
+    name: Mongolia Agent 153
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mn_154
+    name: Mongolia Agent 154
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mn_155
+    name: Mongolia Agent 155
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mn_156
+    name: Mongolia Agent 156
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mn_157
+    name: Mongolia Agent 157
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mn_158
+    name: Mongolia Agent 158
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mn_159
+    name: Mongolia Agent 159
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mn_160
+    name: Mongolia Agent 160
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mn_161
+    name: Mongolia Agent 161
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mn_162
+    name: Mongolia Agent 162
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mn_163
+    name: Mongolia Agent 163
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mn_164
+    name: Mongolia Agent 164
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mn_165
+    name: Mongolia Agent 165
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mn_166
+    name: Mongolia Agent 166
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mn_167
+    name: Mongolia Agent 167
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mn_168
+    name: Mongolia Agent 168
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mn_169
+    name: Mongolia Agent 169
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mn_170
+    name: Mongolia Agent 170
+    status: ACTIVE_SCAFFOLD
